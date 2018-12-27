@@ -7,8 +7,6 @@ title: How I Got the Most out of Attending WWDC (and You Can Too)
 
 WWDC is the highlight of the year for developers and fans of Apple’s platforms. Attending the conference is a great opportunity for learning about the latest Apple tech, meeting some really awesome people and getting inspired. Having attended a few times, I want to share some of my experiences and the things I picked up that make for a great WWDC week.
 
-+++
-
 ---
 
 
@@ -39,7 +37,7 @@ Fly in early. Arrive no later than the Saturday before the keynote (which is alw
 
 Do a road trip. Just an hour south of San Francisco you’ll find legendary places like Cupertino (Apple HQ), Mountain View (Google) and Stanford University. Make sure to take the scenic route if you have the time.
 
-![](/images/roadtrip.jpeg)
+![](/images/WWDC-roadtrip.jpeg)
 *Road trip! Naturally we ended up with an electric prototype car since this is Silicon Valley.*
 
 Go on the unofficial WWDC hike that’s arranged by iOS developer Sam Soffes. You’ll spend a lot of the upcoming week sitting still so you won’t regret stretching your legs a bit before. Also, the views along the hike are truly amazing and you will be in the company of other friendly WWDC attendees.
