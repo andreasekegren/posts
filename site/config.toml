@@ -11,11 +11,11 @@ canonifyurls = true
 
 [params]
   description = ""
-  cover = true
+  cover = false
   author = ""
   authorlocation = ""
-  authorwebsite = ""
-  bio= "I'm Andreas Ekegren. Product guy and UX / Service Designer based in Stockholm. andreasekegren.com"
+  authorwebsite = "andreasekegren.com"
+  bio= "I'm Andreas Ekegren. Product guy and UX / Service Designer based in Stockholm."
   logo = ""
   # googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
