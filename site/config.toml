@@ -12,12 +12,12 @@ canonifyurls = true
 [params]
   description = ""
   cover = false
-  author = "Andreas Ekegren"
+  author = ""
   authorlocation = "Stockholm, Sweden"
-  authorwebsite = "http://vjeantet.fr"
+  authorwebsite = "http://andreasekegren.com"
   bio= ""
   logo = ""
-  googleAnalyticsUserID = "UA-79101-12"
+  googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
   githubName = "andreasekegren"
