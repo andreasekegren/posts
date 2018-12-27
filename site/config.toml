@@ -13,14 +13,14 @@ canonifyurls = true
   description = ""
   cover = false
   author = ""
-  authorlocation = "Stockholm, Sweden"
-  authorwebsite = "http://andreasekegren.com"
+  authorlocation = ""
+  authorwebsite = ""
   bio= ""
   logo = ""
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "andreasekegren"
+  # githubName = "andreasekegren"
   twitterName = "andreasekegren"
   # facebookName = ""
   # linkedinName = ""
