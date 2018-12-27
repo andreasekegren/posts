@@ -59,7 +59,7 @@ Arrive early. I’m not kidding. EARLY. The truest of the believers get in line 
 
 Once you’re seated it’s not long until showtime. Watching an Apple keynote in person is a mesmerizing experience. Not just because of all the new stuff that’s presented but also because the production values of the keynote are simply the best in the business. It’s an incredible performance and when you’re there you can feel the energy of the crowd as it reacts to the announcements.
 
-![](/images/WWDC-keynote.jpeg)
+![](/images/WWDC-keynote.png)
 *The keynote*
 
 While the focus is on the keynote it’s not the only event of the day. After the lunch break there’s the State of the Union talk that dives into the technical details of what was presented during the keynote and finally there’s the Apple Design Awards where exemplary apps and their developers are honored. It’s always interesting to hear Apple’s motivations for the winners they picked.
@@ -70,33 +70,37 @@ The conference schedule is publicized during the keynote day. Once you’re back
 
 By now you should have a pretty good idea of what topics you want to focus on and what events you want to attend. Some prefer the sessions (presentations) whereas others find the hands-on labs with Apple engineers the most useful. Don’t worry in case there’s an overlap in your schedule – all sessions are recorded and available to view afterwards.
 
-
+![](/images/WWDC-moscone_west.jpeg)
 *Moscone West, the location of the WWDC sessions and labs.*
 
 One of the most coveted labs at WWDC is the UI Design Lab, where you have the chance to sit down one-on-one with an Apple UI designer to get feedback and ideas on your app design. This is popular for a reason, since it’s a rare opportunity to get not only really good input but also an idea of how Apple as an institution regards design in general and yours in particular. If you have any ambition to be featured in the App Store or win one of those Design Awards then this lab is a no-brainer. I’ve used it for apps that I was working on and got some great constructive critique. It used to be that attending this lab meant getting up really early and waiting in line again (in addition to the keynote), but starting with 2016 this is no longer necessary since an online reservation form is now used instead. The reservations opens up the same morning as the day of lab, so you’ll still want to wake up early.
 
 Besides attending the official events the days at Moscone are spent eating, hanging out, mingling and coding. The drink and snack selection is pretty good, but the complementary box lunches served all week are a WWDC in-joke. Expect to eat a lot of bread, bagels and pastries. The Odwalla drinks, on the other hand, are great!
 
-
+![](/images/WWDC-coding.jpeg)
 *Mid-session coding.*
 
+![](/images/WWDC-gluten.jpeg)
 *If gluten and sugar isn’t your thing you might want to skip the complimentary breakfast.*
 
+![](/images/WWDC-gang.jpeg)
 *From left to right: Christian from Pacemaker, me, Fredrik from Auxy, and 2016 Apple Scholarship winner David.*
 
 During the week you’ll be around a lot of cool people. Don’t hesitate to reach out! The atmosphere at WWDC is incredibly friendly and open. Make sure to add interesting people that you talk to on Twitter or such so you can stay in touch. All in all it’s a great place to make new friends and business relationships.
 
 The conference schedule usually ends at 6 pm, but that doesn’t mean that the day does. The evenings during WWDC offer a variety of related things to do and events to attend across the city. Some of my best WWDC memories are from events outside of the actual conference, such as the live recording of The Talk Show with John Gruber of Daring Fireball. It took place in an open bar and had none other than Apple Senior Vice Presidents Phil Schiller and Craig Federighi as surprise guests, giving the crowd an unprecedented view into Apple (did I mention that the beer was free?).
 
+
 *Good times at the live recording of The Talk Show! From left to right: Apple SVPs Phil Schiller and Craig Federighi plus John Gruber of Daring Fireball fame.*
 
+![](/images/WWDC-casey_liss.jpeg)
 *Another podcast celebrity — Casey Liss of Accidental Tech Podcast.*
 
 ### The Bash
 
 On Thursday, the day before the last conference day, Apple hosts a WWDC bash. This is an 18 and above only party with free drinks and artists performing live. Don’t expect Rihanna or Coldplay, but there’s usually a fairly well-known band playing. Definitely worth attending.
 
-
+![](/images/WWDC-bash.jpeg)
 *Walk The Moon performing at the ’15 WWDC bash. Moscone, the WWDC conference center, is seen in the background.*
 
 ### Safety
@@ -106,6 +110,8 @@ San Francisco isn’t any different than other major cities – common sense and
 ### Before flying home
 
 Download all the new goodies – betas of the new OS versions, SDKs etc – and install them on your test devices. If you missed out on any of the sessions that you wanted to see then make sure to download the video recordings. Depending on how long your flight home is you’ll have ample time in peace to catch up on anything you missed and play around with all the new stuff.
+
+![](/images/WWDC-flight.jpeg)
 
 ---
 
