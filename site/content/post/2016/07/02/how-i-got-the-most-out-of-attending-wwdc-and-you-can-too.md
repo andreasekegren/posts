@@ -90,7 +90,7 @@ During the week you’ll be around a lot of cool people. Don’t hesitate to rea
 
 The conference schedule usually ends at 6 pm, but that doesn’t mean that the day does. The evenings during WWDC offer a variety of related things to do and events to attend across the city. Some of my best WWDC memories are from events outside of the actual conference, such as the live recording of The Talk Show with John Gruber of Daring Fireball. It took place in an open bar and had none other than Apple Senior Vice Presidents Phil Schiller and Craig Federighi as surprise guests, giving the crowd an unprecedented view into Apple (did I mention that the beer was free?).
 
-
+<iframe scrolling="no" frameborder="0" id="player" src="https://player.vimeo.com/video/171186055" allowfullscreen="true"></iframe>
 *Good times at the live recording of The Talk Show! From left to right: Apple SVPs Phil Schiller and Craig Federighi plus John Gruber of Daring Fireball fame.*
 
 ![](/images/WWDC-casey_liss.jpeg)
