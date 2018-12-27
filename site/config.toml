@@ -15,7 +15,7 @@ canonifyurls = true
   author = ""
   authorlocation = ""
   authorwebsite = ""
-  bio= "I'm Andreas Ekegren. Product guy and UX / Service Designer based in Stockholm. <a href="andreasekegren.com">andreasekegren.com</a>"
+  bio= "I'm Andreas Ekegren. Product guy and UX / Service Designer based in Stockholm. andreasekegren.com"
   logo = ""
   # googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
