@@ -109,6 +109,4 @@ Download all the new goodies – betas of the new OS versions, SDKs etc – and 
 
 ---
 
-+++
-
-I hope this gave you some ideas on how to make your next WWDC experience awesome. Questions? Don’t hesitate to reach out here, on Twitter or andreasekegren.com.
+I hope this gave you some ideas on how to make your next WWDC experience awesome. Questions? Don’t hesitate to reach out here, on <a href=“http://twitter.com/andreasekegren/“>Twitter</a> or <a href=“http://andreasekegren.com“>andreasekegren.com</a>.
