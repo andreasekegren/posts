@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "Andreas Ekegren"
 theme = "hugo-theme-casper"
 disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
@@ -10,21 +10,21 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = ""
   cover = false
   author = "Andreas Ekegren"
   authorlocation = "Stockholm, Sweden"
   authorwebsite = "http://vjeantet.fr"
-  bio= "my bio"
-  logo = "images/logo.png"
+  bio= ""
+  logo = ""
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "vjeantet"
-  twitterName = "vjeantet"
+  githubName = "andreasekegren"
+  twitterName = "andreasekegren"
   # facebookName = ""
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = true
   [params.social]
-    twitter = "your_twitter"
+    twitter = "andreasekegren"
