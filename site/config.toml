@@ -12,7 +12,7 @@ canonifyurls = true
 [params]
   description = ""
   cover = false
-  author = "Andreas Ekegren"
+  author = ""
   authorlocation = "Stockholm, Sweden"
   authorwebsite = "http://vjeantet.fr"
   bio= ""
