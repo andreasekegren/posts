@@ -1684,7 +1684,8 @@ body:not(.post-template) .post-title {
     }
 
     .post-date {
-        display: none;
+        display: inline-block;
+        /*display: none;*/        
     }
 
     .post-template .post-header {
