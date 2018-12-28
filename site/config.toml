@@ -10,7 +10,7 @@ paginate = 100
 canonifyurls = true
 
 [params]
-  description = ""
+  description = "I'm Andreas Ekegren. Product guy and UX / Service Designer based in Stockholm, Sweden"
   cover = false
   author = ""
   authorlocation = ""
