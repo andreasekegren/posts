@@ -15,7 +15,7 @@ canonifyurls = true
   author = ""
   authorlocation = ""
   authorwebsite = "andreasekegren.com"
-  bio= "I'm Andreas Ekegren. Product guy and UX / Service Designer based in Stockholm."
+  bio= "I'm Andreas Ekegren. Product guy and UX / Service Designer based in Stockholm, Sweden. Contact details and more info here:"
   logo = ""
   # googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
@@ -24,7 +24,20 @@ canonifyurls = true
   twitterName = "andreasekegren"
   # facebookName = ""
   # linkedinName = ""
+  # instagramName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = true
   [params.social]
     twitter = "andreasekegren"
+
+[[menu.main]]
+  name = "My Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "About me"
+  weight = -110
+  identifier = "about"
+  url = "/about"
