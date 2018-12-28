@@ -21,7 +21,7 @@ canonifyurls = true
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
   # githubName = "andreasekegren"
-  twitterName = "andreasekegren"
+  # twitterName = "andreasekegren"
   # facebookName = ""
   # linkedinName = ""
   # instagramName = ""
@@ -41,3 +41,9 @@ canonifyurls = true
   weight = -110
   identifier = "about"
   url = "http://andreasekegren.com"
+  
+[[menu.main]]
+  name = "Twitter"
+  weight = -100
+  identifier = "twitter"
+  url = "http://twitter.com/andreasekegren/"
