@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "I'm Andreas Ekegren.Product guy and UX / Service Designer based in Stockholm, Sweden"
-  cover = images/bg.jpg
+  cover = "images/bg.jpg"
   author = "Andreas Ekegren"
   authorlocation = ""
   authorwebsite = "andreasekegren.com"
