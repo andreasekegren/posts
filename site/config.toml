@@ -37,7 +37,7 @@ canonifyurls = true
   url = "/"
 
 [[menu.main]]
-  name = "About"
+  name = "About me"
   weight = -110
   identifier = "about"
-  url = "andreasekegren.com"
+  url = "http://andreasekegren.com"
