@@ -896,8 +896,8 @@ body.nav-opened .menu-button .word {
     background: #f63d56;
 }
 
-.no-cover .page-title {
-    color: #fff;
+/*.no-cover .page-title {
+    color: rgba(0,0,0,0.8);
 }
 
 .no-cover .page-description {
@@ -907,7 +907,7 @@ body.nav-opened .menu-button .word {
 .no-cover .main-nav.overlay .menu-button {
     color: rgba(0,0,0,0.4);
     border-color: rgba(0,0,0,0.3);
-}
+}*/
 
 /* Add subtle load-in animation for content on the home page */
 .home-template .page-title {
