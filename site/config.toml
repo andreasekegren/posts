@@ -11,11 +11,11 @@ canonifyurls = true
 
 [params]
   description = "I'm Andreas Ekegren.Product guy and UX / Service Designer based in Stockholm, Sweden"
-  cover = false
+  cover = images/bg.jpg
   author = "Andreas Ekegren"
   authorlocation = ""
   authorwebsite = "andreasekegren.com"
-  bio= "I'm Andreas Ekegren. Product guy and UX / Service Designer based in Stockholm, Sweden. Contact details and more info here:"
+  bio= "I'm Andreas Ekegren. Product guy and UX / Service Designer based in Stockholm, Sweden. Contact details and more info in link below:"
   logo = ""
   # googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
