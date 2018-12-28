@@ -10,9 +10,9 @@ paginate = 100
 canonifyurls = true
 
 [params]
-  description = "I'm Andreas Ekegren. Product guy and UX / Service Designer based in Stockholm, Sweden"
+  description = "I'm Andreas Ekegren.Product guy and UX / Service Designer based in Stockholm, Sweden"
   cover = false
-  author = ""
+  author = "Andreas Ekegren"
   authorlocation = ""
   authorwebsite = "andreasekegren.com"
   bio= "I'm Andreas Ekegren. Product guy and UX / Service Designer based in Stockholm, Sweden. Contact details and more info here:"
@@ -47,3 +47,9 @@ canonifyurls = true
   weight = -100
   identifier = "twitter"
   url = "http://twitter.com/andreasekegren/"
+  
+[[menu.main]]
+  name = "Email"
+  weight = -90
+  identifier = "email"
+  url = "mailto:hi@andreasekegren.com"
