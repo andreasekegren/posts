@@ -17,7 +17,7 @@ canonifyurls = true
   authorwebsite = "andreasekegren.com"
   bio= "I'm Andreas Ekegren. Product guy and UX / Service Designer based in Stockholm, Sweden. Contact details and more info in link below:"
   logo = ""
-  # googleAnalyticsUserID = ""
+  googleAnalyticsUserID = "UA-481299-4"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
   # githubName = "andreasekegren"
